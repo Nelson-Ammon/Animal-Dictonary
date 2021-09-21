@@ -9,7 +9,7 @@ This is an educational software that stores and retrieves data about different a
   * Sorting data for the project with SQL 
 
 * Android Studio  
-  * Used to build out the app 
+  * Used to build out the Animal Dictonary app 
 
 * YouTube 
-  * Video recapping what our software does 
+  * Video recapping what the software does 
